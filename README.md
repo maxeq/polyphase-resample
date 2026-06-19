@@ -1,4 +1,5 @@
 # polyphase-resample
+n![CI](https://github.com/maxeq/polyphase-resample/actions/workflows/ci.yml/badge.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Bit-exact, cross-platform **polyphase rational resampling** (`upfirdn`) for signal & on-device-ML preprocessing.
 
