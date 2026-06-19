@@ -1,0 +1,10 @@
+{
+  "name": "polyphase-resample",
+  "version": "1.0.0",
+  "description": "Bit-exact, cross-platform polyphase rational resampling (upfirdn) — matches scipy to float64 precision.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": { "verify": "tsx test/verify.mjs" },
+  "keywords": ["dsp", "resample", "upfirdn", "polyphase", "signal-processing", "on-device", "edge-ml"],
+  "devDependencies": { "tsx": "^4.7.0" }
+}
